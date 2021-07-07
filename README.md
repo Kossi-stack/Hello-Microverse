@@ -1,5 +1,4 @@
 Built with HTML and CSS
-
     Major languages
     Frameworks
     Technologies used
